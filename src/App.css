@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap");
+
+:root {
+  --primary: #efb6b2;
+  --secondary: #4e4e4e;
+  --error: #ff4a4a;
+}
+
+body {
+  font-family: "Noto Serif";
+  color: var(--secondary);
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
